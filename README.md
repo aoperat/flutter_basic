@@ -1,6 +1,6 @@
 # flutter_test_ver2
 
-A new Flutter application.
+회원가입/ 로그인 연습
 
 ## Getting Started
 
